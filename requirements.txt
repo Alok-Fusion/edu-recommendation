@@ -124,7 +124,6 @@ python-dateutil
 python-jose
 python-multipart
 pytz
-pywin32-ctypes
 PyYAML
 regex
 reportlab
