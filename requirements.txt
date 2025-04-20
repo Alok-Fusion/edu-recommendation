@@ -162,7 +162,6 @@ urllib3
 uvicorn
 websockets
 Werkzeug
-win10toast
 wrapt
 xgboost
 zope.event
